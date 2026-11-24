@@ -115,3 +115,5 @@ home-assistant.log
 home-assistant_v2.db
 *.pid
 OZW_Log.txt
+
+!buildTools
